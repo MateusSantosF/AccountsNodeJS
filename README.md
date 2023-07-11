@@ -26,8 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
   
-  AccountsNodeJS é um projeto de aprendizagem, objetivando aprender conceitos básicos e fundamentais do Node. Ele simula um simples caixa eletrônico permitindo a criação de conta, saque e depósito.
-  Este projeto foi desenvolvido pensando em utiliizar o máximo dos conceitos de importação de módulos, callbacks e módulos externos. 
+  AccountsNodeJS é um projeto de aprendizagem, objetivando aprender conceitos básicos e fundamentais do Node. Ele simula um simples caixa eletrônico permitindo a criação de contas, saque e depósito.
+  Este projeto foi desenvolvido pensando em utiliizar o máximo dos conceitos de importação de módulos, callbacks, manipulação de arquivos e módulos externos. 
 
 ![image](https://github.com/MateusSantosF/AccountsNodeJS/assets/62969620/2c470a9f-9b24-4c88-aeea-eb01422bcd97)
 
