@@ -85,7 +85,7 @@ module.exports = {
                 backToMenu();
                 return;
             })
-            utils.success(`Saque no valor de ${utils.formatToBRL(withdrawAmount)} realizado com sucesso!\n  Seu saldo atual é de ${utils.formatToBRL(currentBalance - withdrawAmount)} reais`)
+            utils.success(`Saque no valor de ${utils.formatToBRL(withdrawAmount)} realizado com sucesso!\nSeu saldo atual é de ${utils.formatToBRL(currentBalance - withdrawAmount)} reais`)
           
             backToMenu()
             return;
